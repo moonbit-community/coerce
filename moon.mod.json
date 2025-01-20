@@ -2,9 +2,9 @@
   "name": "illusory0x0/coerce",
   "version": "0.1.0",
   "readme": "README.md",
-  "repository": "",
+  "repository": "https://github.com/moonbit-community/coerce",
   "license": "Apache-2.0",
-  "keywords": [],
-  "description": "",
+  "keywords": ["unsafe", "coerce", "intrinsic", "magic"],
+  "description": "Provide coerce functions and examples",
   "source": "src"
 }
